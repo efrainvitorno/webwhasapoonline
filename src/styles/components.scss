@@ -579,7 +579,7 @@ select:invalid {
   }
 
   &.active {
-    @apply border-black;
+    @apply border-green-500;
     h2 {
       @apply text-dark;
     }

@@ -12,8 +12,12 @@ h3,
 h4,
 h5,
 h6 {
-  @apply font-secondary font-bold leading-tight text-dark;
+  font-family: "font-secondary";
+  font-weight: bold;
+  line-height: tight;
+  color: #00cc66; /* Código hexadecimal para verde en Tailwind CSS */
 }
+
 
 h1,
 .h1 {
